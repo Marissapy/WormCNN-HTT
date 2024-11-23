@@ -1,6 +1,6 @@
 # WormGPT-HTT
 
-**WormGPT-HTT**: Are worms just aimlessly wriggling, or is there a hidden pattern to their every move? In the grand tapestry of life, these tiny *C. elegans* might just hold the keys to understanding motion itself. Building upon the robust foundation of **WormCNN**, WormGPT-HTT takes things a notch higher—literally tracking the heads and tails of these microscopic marvels with YOLO precision.
+**WormGPT-HTT**: Are worms just aimlessly wriggling, or is there a hidden pattern to their every move? In the grand tapestry of life, these tiny *C. elegans* might just hold the keys to understanding motion itself. Building upon the foundation of **WormCNN**, WormGPT-HTT takes things a notch higher—literally tracking the heads and tails of these microscopic marvels with YOLO precision.
 
 But why stop at tracking? What if we could read the minds of worms? Or at least their trajectories? By leveraging the prowess of large language models, we delve deep into the "trajectory features," pondering the age-old question: Is there order in chaos, or are worms just playing dice with their destinies? With generative models forecasting their next slither, we're not just observing behavior—we're predicting it. 
 
