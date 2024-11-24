@@ -1,0 +1,7 @@
+# 数据集配置文件
+train: ./train/images # 训练图片路径
+val: ./val/images      # 验证图片路径
+
+# 类别列表
+names:
+  0: Celegans  # 替换为实际类别名称
